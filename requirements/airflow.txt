@@ -1,0 +1,5 @@
+apache-airflow-providers-docker
+apache-airflow-providers-amazon
+apache-airflow-providers-postgres
+python-dotenv==1.0.1
+pydantic

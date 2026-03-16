@@ -1,0 +1,6 @@
+python-dotenv
+pydantic
+pytest
+pytest-cov
+dbt-core==1.9.1
+dbt-postgres==1.9.1
