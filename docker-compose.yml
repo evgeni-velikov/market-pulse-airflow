@@ -123,4 +123,4 @@ volumes:
 
 networks:
   default:
-    name: crypto-pulse-airflow
+    name: market-pulse-airflow
